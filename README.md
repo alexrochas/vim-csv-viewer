@@ -20,20 +20,18 @@ You can install `vim-csv-viewer` using your favorite Vim plugin manager.
 
 **[vim-plug](https://github.com/junegunn/vim-plug)**
 ```vim
-Plug 'your-username/vim-csv-viewer'
+Plug 'alexrochas/vim-csv-viewer'
 ```
 
 **[Vundle](https://github.com/VundleVim/Vundle.vim)**
 ```vim
-Plugin 'your-username/vim-csv-viewer'
+Plugin 'alexrochas/vim-csv-viewer'
 ```
 
 **[Packer.nvim](https://github.com/wbthomason/packer.nvim)**
 ```lua
-use 'your-username/vim-csv-viewer'
+use 'alexrochas/vim-csv-viewer'
 ```
-
-*(Remember to change `your-username` to your actual GitHub username before you push!)*
 
 ## Usage
 
