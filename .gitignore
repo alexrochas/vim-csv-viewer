@@ -1,0 +1,13 @@
+# Ignore vim swap files
+*.swp
+*~
+.sw[a-z]
+.*.sw[a-z]
+tags
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
+
+# Ignore test files
+test*.csv
